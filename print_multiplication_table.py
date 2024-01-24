@@ -15,7 +15,9 @@
 
 # Create an outer loop to repeat numbers from 1-10 
 for i in range(1,11):
-    
+
 # Create an inner loop to repeat from 1-10
+    for j in range(1,11): 
+        
 # In the inner loop, calculate the product of current outer number and current inner number 
 # Print the results
