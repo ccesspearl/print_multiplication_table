@@ -10,3 +10,10 @@
 # 8  16 24 32 40 48 56 64 72 80 		
 # 9  18 27 36 45 54 63 72 81 90 		
 # 10 20 30 40 50 60 70 80 90 100 
+
+# Pseudocode 
+
+# Create an outer loop to repeat numbers from 1-10 
+# Create an inner loop to repeat from 1-10
+# In the inner loop, calculate the product of current outer number and current inner number 
+# Print the results
